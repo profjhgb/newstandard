@@ -1,0 +1,2 @@
+# newstandard
+Documentação do NewSystem
